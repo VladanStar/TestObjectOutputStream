@@ -1,2 +1,2 @@
 # TestObjectOutputStream
-Ovde se prikazuje listing programa koji zapisuje imena studenata, njihove ocene i trenutni datum u datoteku pod nazivom object.dat
+Here is a listing of the program that records the names of the students, their grades and the current date in a file called object.dat
